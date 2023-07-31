@@ -18,14 +18,10 @@ Python 3.10.10 was used as the virtual environment, with the following as the ma
 - Seaborn.
 
 ## Participation Issue
-Title: Jorge Félix Problema 8 Computer Vision
-
-Author: Jorge Félix Martínez Pazos
-
-Email: jorgefmp.mle@gmail.com
-
-Phone Number: +53 54174235
-
-Solution Repository: https://github.com/WiseGeorge/Natasquad-Artificial-Intelligence-Hackathon
+- Title: Jorge Félix Problema 8 Computer Vision
+- Author: Jorge Félix Martínez Pazos
+- Email: jorgefmp.mle@gmail.com
+- Phone Number: +53 54174235
+- Solution Repository: https://github.com/WiseGeorge/Natasquad-Artificial-Intelligence-Hackathon
 
 
