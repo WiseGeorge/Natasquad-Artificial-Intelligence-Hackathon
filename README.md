@@ -28,4 +28,7 @@ Phone Number: +53 54174235
 
 Solution Repository: https://github.com/WiseGeorge/Natasquad-Artificial-Intelligence-Hackathon
 
+## 🏆Position
+- **Second🥈Place**
+
 
